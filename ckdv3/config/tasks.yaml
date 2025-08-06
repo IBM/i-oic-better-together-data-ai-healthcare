@@ -1,0 +1,13 @@
+parse_pdf:
+  description: >
+    Convert the document {input_pdf} and save it into a JSON file.
+  expected_output: >
+    Print the File Name of the .json file prefixed with "JSON File:". Do not print the file contents.
+  agent: docling_agent
+
+parse_json:
+  description: >
+    Parse the JSON file and extract value for the field: {input_field}.
+  expected_output: >
+    Returns the value of the input field from the JSON file.
+  agent: JSON_data_extractor
