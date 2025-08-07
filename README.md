@@ -9,9 +9,12 @@ There is a ckd_v3 folder consists custom tool configuration has python module fo
 1.Clone the respository
 ```bash
     git clone https://github.com/IBM/i-oic-better-together-data-ai-healthcare
-    ```
+```
+
 2.**custom_tool.py** has a module to read scanned pdf using docling has text nodes.
+
 3.**crew_config** folder has the yaml name,role, decription for agent and tasks.
+
 4.**main.py** This is intended to run your crew locally, Replace with inputs you want to test with.
 
 # Predictive Model
