@@ -21,4 +21,4 @@ There is a ckd_v3 folder consists custom tool configuration has python module fo
 ## Predictive Model
 The Predictive model document provided has Watsonx machine learning model was used with kaggle dataset for classifying CKD or Non CKD.
 
-![Blood Analysis Agentic Workflow](./eGFR-Blood Analysis AI Agentic Workflow.jpg)
+![Blood Analysis Agentic Workflow](/eGFR-Blood Analysis AI Agentic Workflow.jpg)
