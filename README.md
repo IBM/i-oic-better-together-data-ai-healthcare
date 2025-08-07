@@ -23,4 +23,4 @@ The Predictive model document provided has Watsonx machine learning model was us
 
 
 
-![Blood Analysis Agentic Workflow](./eGFR Blood Analysis AI Agentic Workflow.jpg)
+![Blood Analysis Agentic Workflow]([./eGFR Blood Analysis AI Agentic Workflow.jpg](https://github.com/user-attachments/assets/fcc22e8e-ef44-4122-bd11-a9d85859400d))
