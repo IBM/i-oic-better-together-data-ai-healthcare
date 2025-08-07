@@ -19,6 +19,6 @@ There is a ckd_v3 folder consists custom tool configuration has python module fo
 4.**main.py** This is intended to run your crew locally, Replace with inputs you want to test with.
 
 ## Predictive Model
-The Prediction model document provided has Watsonx machine learning model was used with kaggle dataset for classifying CKD or Non CKD.
+The Predictive model document provided has Watsonx machine learning model was used with kaggle dataset for classifying CKD or Non CKD.
 
 ![Blood Analysis Agentic Workflow]
