@@ -21,4 +21,4 @@ The provided document describes how we trained a CKD prediction model using a Ka
 
 
 
-![Blood Analysis Agentic Workflow](./eGFR Blood Analysis AI Agentic Workflow.jpg)
+![Blood Analysis Agentic Workflow](./eGFRBloodAnalysis.jpg)
