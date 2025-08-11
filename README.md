@@ -14,7 +14,7 @@ Note that this is PoC quality code not meant to be deployed as-is in a productio
 
 3.The **yaml** folder contains YAML files for defining agents and task configurations.
 
-4.From the local folder, run **main.py** to execute the workflow locally.Change the input data as needed.
+4.From the local folder, run **main.py** to execute the workflow locally. Change the input data as needed.
 
 ## Predictive Model
 The provided document describes how we trained a CKD prediction model using a Kaggle dataset and hosted it on watsonx.ai.
